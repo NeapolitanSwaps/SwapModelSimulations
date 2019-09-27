@@ -11,7 +11,7 @@ Create the virtual enviroment
 virtualenv venv -p python3
 ```
 
-Activate the virtual enviroment. You shell should now say (venv) on the left side.
+Activate the virtual enviroment. You shell should now say (`venv`) on the left side.
 ```
 source venv/bin/activate
 ```
