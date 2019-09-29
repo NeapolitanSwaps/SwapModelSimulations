@@ -18,7 +18,7 @@ source venv/bin/activate
 
 Install packages
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 Ensure kernel can be accessed by Jupyter
